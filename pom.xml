@@ -5,7 +5,7 @@
 	<artifactId>api</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>接口测试自动化0.02版</name>
+	<name>接口测试自动化1.0版</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
